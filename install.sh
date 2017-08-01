@@ -1,3 +1,4 @@
+#!/bin/bash
 cp getbrightness.sh /usr/bin/getbrightness
 cp setbrightness.sh /usr/bin/setbrightness
 cp maxbrightness.sh /usr/bin/maxbrightness
